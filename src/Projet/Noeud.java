@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Noeud {
 
-    private String nom; //nom : nom du noeud
+    private String nom; //nom du noeud
     private ArrayList<Noeud> liste_voisins = new ArrayList<Noeud>(); //Arraylist : liste des voisins
 
     //Constructeur------------
