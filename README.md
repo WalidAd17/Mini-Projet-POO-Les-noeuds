@@ -1,5 +1,6 @@
-# Mini-Projet-POO-Les-noeuds
+# Mini Projet - Les noeuds
 # ANNAD Walid
-Module : TP - POO
-Année : Licence 2 
-Spécialité : ISIL
+
+Module : TP - POO (Programmation Orientée Objet)
+Année : 2 ème année Licence 
+Spécialité : ISIL (Ingénierie des Systèmes Informatiques et Logiciel)
