@@ -18,7 +18,7 @@ public class Main {
         Noeud J = new Noeud("J");
         Noeud K = new Noeud("K");
 
-        //L'ajout des noeuds précedemment crés au Graphe
+        //L'ajout des noeuds précedemment créés au Graphe
         Gr.ajouter_noeud(A);
         Gr.ajouter_noeud(B);
         Gr.ajouter_noeud(C);
